@@ -191,6 +191,6 @@ Open your browser at `http://localhost:8501` to test predictions interactively!
 - **Mina Wagih** — [@MinaWagihz](https://github.com/MinaWagihz)
 
 ### 👨‍🏫 Supervised by:
-- **Eng. Mina Naser**
+- **Eng. Mina Naser** [@Naser215](https://github.com/Naser215)
 
 
