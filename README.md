@@ -186,7 +186,7 @@ Open your browser at `http://localhost:8501` to test predictions interactively!
 ## 👥 Authors & Supervision
 
 ### 🧑‍💻 Developed by:
-- **Lele Osama** — [@leleosabry-max](https://github.com/leleosabry-max)
+- **Laila Osama** — [@leleosabry-max](https://github.com/leleosabry-max)
 - **Amr Alaa** — [@Amor296](https://github.com/Amor296)
 - **Mina Wagih** — [@MinaWagihz](https://github.com/MinaWagihz)
 
